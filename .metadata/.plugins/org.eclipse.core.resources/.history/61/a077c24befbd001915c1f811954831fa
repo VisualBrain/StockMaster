@@ -1,0 +1,8 @@
+package com.stockmarket.configurations;
+
+@Configuration
+@EnableWebMvc
+@ComponentScan(basePackages={"com.StockMarket.Controller"})
+public class WebConfig {
+
+}

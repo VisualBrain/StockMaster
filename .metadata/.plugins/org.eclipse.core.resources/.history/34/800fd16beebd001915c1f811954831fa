@@ -1,0 +1,5 @@
+package com.stockmarket.configurations;
+
+public class WebAppInitializer {
+
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\QuickMeal\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1386241729.index
+519420996.index
+2594212617.index
+3918901391.index
+3583483721.index
+509895952.index

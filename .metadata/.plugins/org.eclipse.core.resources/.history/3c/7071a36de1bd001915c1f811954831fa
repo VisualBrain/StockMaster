@@ -1,0 +1,5 @@
+hibernate.hbm2ddl.auto=validate
+hibernate.dialect=org.hibernate.cj.dialect.MySQL5Dialect
+hibernate.search.default.directory_provider=filesystem
+hibernate.search.default.indexBase=C:\\Users\\Wojtek\\workspace\\library-spring\\indexes
+hibernate.show_sql=false
